@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Alex Kimeu
+# 👋 Hi, I’m Alex Kimeu
 - 👀 I’m in love with JavaScript. It's !mutual.
 - 🌱 I’m currently learning & building stuff for mobile & the web.
 - 📫 Let's see how this journey goes.
-- 
+
 - 👋 https://alexcodes.netlify.app
 
 <!---
